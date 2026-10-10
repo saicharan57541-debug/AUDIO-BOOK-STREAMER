@@ -1,0 +1,7 @@
+{
+  "name": "AuraBooks - Audiobook Streamer",
+  "description": "Stream, browse, and track audiobooks online with chapter navigation, playback controls, and a personal library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
